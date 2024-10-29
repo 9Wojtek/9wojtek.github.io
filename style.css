@@ -1,19 +1,23 @@
 p{
     color:red;
-    font-size:large;
+    font-size: larger;
 }
-h4{font-size:larger;}
+h4{font-size:x-large;}
 body{color:aqua;
-    background-color:rgb(12, 116, 81)}
+    background-color:rgba(11, 11, 12, 0.884)}
 img{width: 450px;
-    border: 10px;;
+    border: 10px;
+    
 }
 div{
-    font-family: "Lato"
-    max-width: 400px;
-    margin:auto
+    font-family: "Lato";
+    max-width:  800px;
+    text-align: left;
+    margin:auto;
     
-    
+}
+h1{
+  text-align: center;
 }
 body{
     font-family: "Lato";
