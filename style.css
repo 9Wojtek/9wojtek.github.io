@@ -9,7 +9,6 @@ img{width: 450px;
     border: 10px;
     
 }
-a{font-color:white}
 div{
     font-family: "Lato";
     max-width:  800px;
@@ -23,7 +22,6 @@ h1{
 body{
     font-family: "Lato";
 }
-br{size:large}
 .lato-thin {
     font-family: "Lato", sans-serif;
     font-weight: 100;
@@ -83,4 +81,6 @@ br{size:large}
     font-weight: 900;
     font-style: italic;
   }
-  
+  a{color:red;
+    font
+    }
